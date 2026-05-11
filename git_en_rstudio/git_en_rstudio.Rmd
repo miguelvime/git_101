@@ -1,0 +1,8 @@
+---
+title: "git_en_rstudio"
+author: "Miguel Angel Vicente Mesonero"
+date: "2026-05-08"
+output: pdf_document
+---
+
+Vamos a ver cómo funciona git en rstudio
